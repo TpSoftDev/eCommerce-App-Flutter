@@ -34,14 +34,14 @@ class TAppTheme {
     chipTheme: TChipTheme.lightChipTheme, //Chip styling
     appBarTheme: TAppBarTheme.lightAppBarTheme, //AppBar styling
     checkboxTheme: TCheckboxTheme.lightCheckboxTheme, //Checkbox styling
-    bottomSheetTheme:
-        TBottomSheetTheme.lightBottomSheetTheme, //BottomSheet styling
+    bottomSheetTheme:TBottomSheetTheme.lightBottomSheetTheme, //BottomSheet styling
     elevatedButtonTheme:
         TElevatedButtonTheme.lightElevatedButtonTheme, //Elevated button styling
     outlinedButtonTheme:
         TOutlinedButtonTheme.lightOutlinedButtonTheme, //Outlined button styling
     inputDecorationTheme:
         TTextFormFieldTheme.lightInputDecorationTheme, //Input field styling
+    
   ); // Create a variable of ThemeData which is a class that contains the theme of the app alternative is to create a function
 
   /// Dark Theme
