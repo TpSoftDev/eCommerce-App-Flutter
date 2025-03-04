@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: "assets/images/Socialdeck Logo.png"
+  image_dark: "assets/images/Socialdeck Logo.png"
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: "assets/images/Socialdeck Logo.png"
+    image_dark: "assets/images/Socialdeck Logo.png"
+    icon_background_color: "#FFFFFF"
+    icon_background_color_dark: "#272727"
+
+  web: false
+  ios: true
+  android: true
